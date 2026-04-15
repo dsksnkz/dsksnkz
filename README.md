@@ -9,7 +9,7 @@
 ⚙️ Working on...
    - Home Server (Arch Copilot)
    - Linux Desktop
-   - Servers/Databases
+   - Servers/Databases 🖥️
    - ⌨️ Keyboards
      
 🌐 Languages i speak...
@@ -21,4 +21,4 @@
    - SP
    - FF
 
-< btw >
+</ btw >
