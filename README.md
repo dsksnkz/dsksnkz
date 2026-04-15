@@ -5,11 +5,13 @@
    - HTML/CSS
    - Python
    - Shell
+     
 ⚙️ Working on...
    - Home Server (Arch Copilot)
    - Linux Desktop
    - Servers/Databases
    - ⌨️ Keyboards
+     
 🌐 Languages i speak...
    - Chinese
    - English
