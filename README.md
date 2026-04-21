@@ -1,24 +1,14 @@
-< I use arch >
+\_________________ 10:12 __________ (1 2 3 4 5) _____________ ᯤ 100%____________🌣______/
 
- 🚄 Coding in...
-   - Rust
-   - HTML/CSS
-   - Python
-   - Shell
-     
-⚙️ Working on...
-   - Home Server (Arch Copilot)
-   - Linux Desktop
-   - Servers/Databases 🖥️
-   - ⌨️ Keyboards
-     
-🌐 Languages i speak...
-   - Chinese
-   - English
-
-🎱Games..?
-   - CS2
-   - SP
-   - FF
-
-</ btw >
+ ____________________________________    _______________________________________________
+|                                    |  |                                               |
+|                                    |  |                                               |
+|                                    |  |                                               |
+|                                    |  |                                               |
+|                                    |  |                                               |
+|                                    |
+|                                    |
+|                                    |
+|                                    |
+|                                    |
+|____________________________________|
