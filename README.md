@@ -6,6 +6,6 @@
 
 <br>
 
-# My 🪟 Desktop:
+# 🪟 Desktop:
 
 <img src="Screenshot 2026-06-03 180028.png">
