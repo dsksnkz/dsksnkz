@@ -11,3 +11,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=dsksnkz&theme=tokyonight)](https://git.io/streak-stats)
 
 <br>
+
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Alacritty](https://img.shields.io/badge/alacritty-%23F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
