@@ -11,9 +11,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=dsksnkz&theme=tokyonight)](https://git.io/streak-stats)
 
 <br>
-
-# 🪟 Desktop:
-
-<img class="windowsdesktop" src="Screenshot 2026-06-03 180028.png" width="700">
-
-</center>
