@@ -6,10 +6,6 @@
 
 <br>
 
-![Static Badge](https://img.shields.io/badge/Day2-UniConf-blue?style=for-the-badge&logo=htmx&logoColor=black&labelColor=%23deebff&color=%235294ff)
-
-<br>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=dsksnkz&theme=tokyonight)](https://git.io/streak-stats)
 
 <br>
