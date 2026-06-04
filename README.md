@@ -6,7 +6,7 @@
 
 <br>
 
-![Static Badge](https://img.shields.io/badge/Day1-UniConf-blue?style=for-the-badge&logo=htmx&logoColor=black&labelColor=%23deebff&color=%235294ff)
+![Static Badge](https://img.shields.io/badge/Day2-UniConf-blue?style=for-the-badge&logo=htmx&logoColor=black&labelColor=%23deebff&color=%235294ff)
 
 <br>
 
