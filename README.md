@@ -42,6 +42,7 @@ hobbies:   ricing, breaking things, reading the wiki, fixing things, breaking th
 ![Bash Script](https://img.shields.io/badge/bash_script-1e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=a6e3a1)
 ![Python](https://img.shields.io/badge/python-1e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af)
 ![Rust](https://img.shields.io/badge/rust-1e1e2e?style=for-the-badge&logo=rust&logoColor=fab387)
+![C#](https://img.shields.io/badge/c%23-1e1e2e?style=for-the-badge&logo=dotnet&logoColor=cba6f7)
 ![Lua](https://img.shields.io/badge/lua-1e1e2e?style=for-the-badge&logo=lua&logoColor=89b4fa)
 ![Git](https://img.shields.io/badge/git-1e1e2e?style=for-the-badge&logo=git&logoColor=f38ba8)
 
@@ -53,7 +54,7 @@ hobbies:   ricing, breaking things, reading the wiki, fixing things, breaking th
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1e1e2e?style=for-the-badge&logo=arch-linux&logoColor=89b4fa)
 ![Hyprland](https://img.shields.io/badge/Hyprland-1e1e2e?style=for-the-badge&logo=hyprland&logoColor=94e2d5)
-![Neovim](https://img.shields.io/badge/neovim-1e1e2e?style=for-the-badge&logo=neovim&logoColor=a6e3a1)
+![Helix](https://img.shields.io/badge/helix-1e1e2e?style=for-the-badge&logo=helix&logoColor=cba6f7)
 ![Kitty](https://img.shields.io/badge/terminal-1e1e2e?style=for-the-badge&logo=gnometerminal&logoColor=cba6f7)
 
 </div>
