@@ -1,18 +1,82 @@
-<center>
+<div align="center">
 
-![Static Badge](https://img.shields.io/badge/archinstalled-24%20times-blue?style=for-the-badge&logo=archlinux&logoColor=black&labelColor=%23deebff&color=%235294ff)
-![Static Badge](https://img.shields.io/badge/Hyprland-blue?style=for-the-badge&logo=hyprland&logoColor=black&labelColor=%23deebff&color=%235294ff)
+### hi, i'm dsksnkz
 
-</center>
-
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dsksnkz&theme=tokyonight)](https://git.io/streak-stats)
+*System ran into problem? Dont worry. Get an ISO.*
 
 <br>
 
+![archinstalled](https://img.shields.io/badge/archinstalled-24%20times-blue?style=for-the-badge&logo=archlinux&logoColor=1e1e2e&labelColor=89b4fa&color=1e1e2e)
+![Hyprland](https://img.shields.io/badge/Hyprland-tiling%20everything-blue?style=for-the-badge&logo=hyprland&logoColor=1e1e2e&labelColor=89b4fa&color=1e1e2e)
 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+</div>
+
+<br>
+
+```bash
+❯ fastfetch
+```
+
+```yaml
+user:      matte
+os:        Arch Linux x86_64        # 24th
+wm:        Hyprland                 
+shell:     fish
+editor:    helix
+theme:     the dark one
+uptime:    until the next pacman -Syu
+hobbies:   breaking things, reading the wiki, fixing things, breaking them again
+```
+
+<br>
+
+## ❯ stuff i write
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-1e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af)
+![Lua](https://img.shields.io/badge/lua-1e1e2e?style=for-the-badge&logo=lua&logoColor=89b4fa)
+![Git](https://img.shields.io/badge/git-1e1e2e?style=for-the-badge&logo=git&logoColor=f38ba8)
+![C#](https://img.shields.io/badge/c%23-1e1e2e?style=for-the-badge&logo=dotnet&logoColor=cba6f7)
+
+</div>
+
+## ❯ stuff i live in
+
+<div align="center">
+
+![Arch](https://img.shields.io/badge/Arch%20Linux-1e1e2e?style=for-the-badge&logo=arch-linux&logoColor=89b4fa)
+![Hyprland](https://img.shields.io/badge/Hyprland-1e1e2e?style=for-the-badge&logo=hyprland&logoColor=94e2d5)
+![Helix](https://img.shields.io/badge/helix-1e1e2e?style=for-the-badge&logo=helix&logoColor=cba6f7)
+![Kitty](https://img.shields.io/badge/terminal-1e1e2e?style=for-the-badge&logo=gnometerminal&logoColor=cba6f7)
+
+</div>
+
+<br>
+
+<div align="center">
+
+
+</div>
+
+<br>
+
+## ❯ known issues
+
+- [x] reinstalled arch instead of reading the error message
+- [ ] read the wiki **before** running the command
+- [ ] stop at 24 installs
+
+<br>
+
+<div align="center">
+
+```
+69% complete
+stop code: NOPE_CHECK_THE_LOGS_MAYBE
+if you open an issue for help, well, good luck
+```
+
+<img src="https://img.shields.io/badge/-get%20an%20ISO%20and%20enjoy%20the%20wiki-1e1e2e?style=flat-square&logo=archlinux&logoColor=89b4fa" />
+
+</div>
