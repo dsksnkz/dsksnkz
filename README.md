@@ -30,7 +30,7 @@ hobbies:   breaking things, reading the wiki, fixing things, breaking them again
 
 <br>
 
-## ❯ stuff i write
+## ❯ writing in
 
 <div align="center">
 
@@ -41,7 +41,7 @@ hobbies:   breaking things, reading the wiki, fixing things, breaking them again
 
 </div>
 
-## ❯ stuff i live in
+## ❯ living in
 
 <div align="center">
 
@@ -61,7 +61,7 @@ hobbies:   breaking things, reading the wiki, fixing things, breaking them again
 
 <br>
 
-## ❯ known issues
+## ❯ issues
 
 - [x] reinstalled arch instead of reading the error message
 - [ ] read the wiki **before** running the command
@@ -70,12 +70,6 @@ hobbies:   breaking things, reading the wiki, fixing things, breaking them again
 <br>
 
 <div align="center">
-
-```
-69% complete
-stop code: NOPE_CHECK_THE_LOGS_MAYBE
-if you open an issue for help, well, good luck
-```
 
 <img src="https://img.shields.io/badge/-get%20an%20ISO%20and%20enjoy%20the%20wiki-1e1e2e?style=flat-square&logo=archlinux&logoColor=89b4fa" />
 
