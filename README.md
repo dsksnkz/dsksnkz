@@ -7,7 +7,7 @@
 <br>
 
 ![archinstalled](https://img.shields.io/badge/archinstalled-24%20times-blue?style=for-the-badge&logo=archlinux&logoColor=1e1e2e&labelColor=89b4fa&color=1e1e2e)
-![Hyprland](https://img.shields.io/badge/Hyprland-tiling%20everything-blue?style=for-the-badge&logo=hyprland&logoColor=1e1e2e&labelColor=89b4fa&color=1e1e2e)
+![Hyprland](https://img.shields.io/badge/Hyprland-tiling%20bricks-blue?style=for-the-badge&logo=hyprland&logoColor=1e1e2e&labelColor=89b4fa&color=1e1e2e)
 
 </div>
 
@@ -23,9 +23,9 @@ os:        Arch Linux x86_64        # 24th
 wm:        Hyprland                 
 shell:     fish
 editor:    helix
-theme:     the dark one
-uptime:    until the next pacman -Syu
-hobbies:   breaking things, reading the wiki, fixing things, breaking them again
+theme:     tokyo-night
+uptime:    until next pacman -Syu
+hobbies:   breaking, reading wiki, fixing, and breaking
 ```
 
 <br>
@@ -58,16 +58,6 @@ hobbies:   breaking things, reading the wiki, fixing things, breaking them again
 
 
 </div>
-
-<br>
-
-## ❯ issues
-
-- [x] reinstalled arch instead of reading the error message
-- [ ] read the wiki **before** running the command
-- [ ] stop at 24 installs
-
-<br>
 
 <div align="center">
 
